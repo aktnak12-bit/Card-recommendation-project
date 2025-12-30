@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+numpy
+python-dotenv
+google-genai
+rank_bm25
+scikit-learn
+pydantic
+pyarrow
